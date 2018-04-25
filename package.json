@@ -1,6 +1,6 @@
 {
   "name": "eachslice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eachSlice([1,2,3,4,5], 2) -> [[1,2], [3,4], [5]]",
   "main": "index.js",
   "scripts": {
