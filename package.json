@@ -6,7 +6,7 @@
   ],
   "version": "0.0.3",
   "description": "eachSlice([1,2,3,4,5], 2) -> [[1,2], [3,4], [5]]",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel index.js --out-file dist/index.js"
