@@ -1,7 +1,10 @@
 {
   "name": "eachslice",
-  "keywords": ["util", "stdlib"],
-  "version": "0.0.2",
+  "keywords": [
+    "util",
+    "stdlib"
+  ],
+  "version": "0.0.3",
   "description": "eachSlice([1,2,3,4,5], 2) -> [[1,2], [3,4], [5]]",
   "main": "index.js",
   "scripts": {
