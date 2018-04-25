@@ -4,7 +4,7 @@
     "util",
     "stdlib"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "eachSlice([1,2,3,4,5], 2) -> [[1,2], [3,4], [5]]",
   "main": "dist/index.js",
   "scripts": {
